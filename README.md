@@ -21,3 +21,5 @@ export FLASK_ENV=development
 2. Add the vercel.json file
 3. Run ```vercel --prod```
 
+# Online
+https://basic-flask-api-vercel.vercel.app
